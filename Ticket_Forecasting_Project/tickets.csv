@@ -1,0 +1,9 @@
+text,category
+"My internet is not working", technical
+"Payment failed but money deducted", billing
+"Order not delivered yet", delivery
+"App is crashing frequently", technical
+"Refund not received", billing
+"Late delivery of product", delivery
+"Unable to login", technical
+"Wrong amount charged", billing
